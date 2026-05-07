@@ -2,7 +2,7 @@
 seed: 42
 workers: 2
 # dataset_dir: "~/datasets"
-dataset_dir: "/kaggle/input/imagenet10" 
+dataset_dir: "/kaggle/input/datasets/liusha249/imagenet10/imagenet-10"
 
 # train options
 batch_size: 64
